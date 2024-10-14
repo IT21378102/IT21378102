@@ -1,3 +1,5 @@
+<img src="https://github.com/IT21378102/IT21378102/blob/main/StockCake-Nighttime%20Coding%20Session_1728882016.jpg?raw=true" alt="logo" width="1000" height="450">
+
 <h1 align="center">Hi 👋, I'm Kavindu Herath</h1>
 <h3 align="center">A passionate Quality Assurance Engineer from Sri Lanka</h3>
 
